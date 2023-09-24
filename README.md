@@ -2,8 +2,8 @@
 Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and Technology Student of Bina Nusantara University.
 
 # Things I've Made
--  Lost Place as part of BGDC Talent Group Program
-   Game Link: https://bgdc.itch.io/lost-place
+-  **Lost Place** as part of BGDC Talent Group Program <br>
+   **Game Link**: https://bgdc.itch.io/lost-place
 
 # Project I'm Working On
 - *Place Holder Title* as my Semester 5 Capstone Project
