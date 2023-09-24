@@ -6,10 +6,10 @@ Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and T
    Game Link: https://bgdc.itch.io/lost-place
 
 # Project I'm Working On
-- Place Holder Title as my Semester 5 Capstone Project
+- *Place Holder Title* as my Semester 5 Capstone Project
 
 # Contacts
-- Gmail: viero.famico@gmail.com
+**Gmail**: viero.famico@gmail.com
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
