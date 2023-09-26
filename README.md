@@ -8,6 +8,11 @@ Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and T
 # Project I'm Working On
 - *Place Holder Title* as my Semester 5 Capstone Project
 
+# Practice Project
+- **Simple Maze**
+- **Pong**
+- **Space Invaders**
+
 # Contacts
 **Gmail**: viero.famico@gmail.com
 <!---
