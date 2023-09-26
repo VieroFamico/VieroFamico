@@ -1,5 +1,5 @@
 # About Me
-Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and Technology Student of Bina Nusantara University.
+Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and Technology Student of Bina Nusantara University. I'm proficient in the use of Unity Game Engine and the corresponding C# Programming Language to make the games I do.
 
 # Things I've Made
 -  **Lost Place** as part of BGDC Talent Group Program <br>
