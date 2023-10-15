@@ -15,7 +15,7 @@ Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and T
 
 # Contacts
 <p align="center" width="5%" height="5%">
-![image](https://github.com/VieroFamico/VieroFamico/assets/145670324/29f35a5c-c5db-4b77-9430-32b89e29584f)
+  <img src="https://github.com/VieroFamico/VieroFamico/assets/145670324/29f35a5c-c5db-4b77-9430-32b89e29584f">
 </p>**Gmail**: viero.famico@gmail.com
 <!---
 - 👀 I’m interested in ...
