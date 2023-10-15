@@ -14,9 +14,10 @@ Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and T
 - **Space Invaders**
 
 # Contacts
-<p align="center" width="5%" height="5%">
-  <img src="https://github.com/VieroFamico/VieroFamico/assets/145670324/29f35a5c-c5db-4b77-9430-32b89e29584f">
-</p>**Gmail**: viero.famico@gmail.com
+You can reach me using:
+**Gmail**: viero.famico@gmail.com
+**LinkedIn**: https://www.linkedin.com/in/viero-famico-514933260/
+
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
