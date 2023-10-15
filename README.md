@@ -14,7 +14,7 @@ Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and T
 - **Space Invaders**
 
 # Contacts
-You can reach me using:
+You can reach me using: <br>
 **Gmail**: viero.famico@gmail.com <br>
 **LinkedIn**: https://www.linkedin.com/in/viero-famico-514933260/
 
