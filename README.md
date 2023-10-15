@@ -15,7 +15,7 @@ Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and T
 
 # Contacts
 You can reach me using:
-**Gmail**: viero.famico@gmail.com
+**Gmail**: viero.famico@gmail.com <br>
 **LinkedIn**: https://www.linkedin.com/in/viero-famico-514933260/
 
 <!---
