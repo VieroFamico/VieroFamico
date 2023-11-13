@@ -5,7 +5,7 @@ Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and T
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://github.com/VieroFamico/Lost-Place">**Lost Place**</a></th>
+      <th width="50%"><a href="https://github.com/VieroFamico/Lost-Place">Lost Place</a></th>
       <th width="50%"><a>Nanobot Survival</a></th>
     </tr>
   </thead>
