@@ -12,11 +12,11 @@ Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and T
   <tbody>
     <tr>
       <td><img src="https://github.com/VieroFamico/VieroFamico/assets/145670324/219f11bc-9094-48b9-832a-bd15e5ee9e68"/></td>
-      <td><img src=""/></td>
+      <td></td>
     </tr>
     <tr>
-      <td valign="text-top">**Lost Place** is a Horror Top Down Shooter game that was made as part of BGDC Talent Group Program. The game is about a detective who wakes up in a dark room with no memories of how he got there.</td>
-      <td valign="text-top"">**Nanobot Survival** is a 2D Roguelike Survival game. In this game you will control a nanobot that was put into a human body to protect them against illness and disease.<div></div></td>
+      <td valign="text-top">Lost Place is a Horror Top Down Shooter game that was made as part of BGDC Talent Group Program. The game is about a detective who wakes up in a dark room with no memories of how he got there.</td>
+      <td valign="text-top"">Nanobot Survival is a 2D Roguelike Survival game. In this game you will control a nanobot that was put into a human body to protect them against illness and disease.<div></div></td>
     </tr>
     <tr>
       <td><a href="https://bgdc.itch.io/lost-place">Itch.io Page</td>
