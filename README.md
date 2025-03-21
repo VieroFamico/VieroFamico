@@ -6,7 +6,7 @@ Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and T
   <thead>
     <tr>
       <th width="50%"><a href="https://github.com/VieroFamico/Lost-Place">Lost Place</a></th>
-      <th width="50%"><a>Nanobot Survival</a></th>
+      <th width="50%"><a>Project Impact</a></th>
     </tr>
   </thead>
   <tbody>
@@ -16,7 +16,7 @@ Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and T
     </tr>
     <tr>
       <td valign="text-top">Lost Place is a Horror Top Down Shooter game that was made as part of BGDC Talent Group Program. The game is about a detective who wakes up in a dark room with no memories of how he got there.</td>
-      <td valign="text-top"">Nanobot Survival is a 2D Roguelike Survival game. In this game you will control a nanobot that was put into a human body to protect them against illness and disease.<div></div></td>
+      <td valign="text-top"">Project Impact is an anime styled 3D Hack-and-Slash game, similar to Honkai Impact 3rd and Punishing Gray Raven. In the game there is 2 mode, Single Player and Coop PVP.<div></div></td>
     </tr>
     <tr>
       <td><a href="https://bgdc.itch.io/lost-place">Itch.io Page</td>
@@ -27,13 +27,7 @@ Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and T
   </tbody>
 </table>
 
-# Project I'm Working On
-- Nanobot Survival as my Semester 5 Capstone Project
 
-# Practice Project
-- **Simple Maze**
-- **Pong**
-- **Space Invaders**
 
 # Contacts
 You can reach me using: <br>
