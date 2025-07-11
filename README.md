@@ -20,7 +20,7 @@ Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and T
     </tr>
     <tr>
       <td><a href="https://bgdc.itch.io/lost-place">Itch.io Page</td>
-      <td><a></td>
+      <td><a href="https://nauticcat.itch.io/project-impact">Itch.io Page</td>
     </tr>
     <tr>
     </tr>
