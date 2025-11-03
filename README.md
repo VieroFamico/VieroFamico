@@ -27,7 +27,11 @@ Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and T
   </tbody>
 </table>
 
-
+Other stuff I've Made:
+- <td><a href="https://nauticcat.itch.io/dancefloor-duelists">Dancefloor Duelist (Rhythm Based Bullet Hell Game)</td> 
+- <td><a href="https://nauticcat.itch.io/pickup">Pick Up (Click and Drag Puzzle Game)</td> 
+- <td><a href="https://nauticcat.itch.io/puck-off">Puck Off (Physics-Based Rogue-Like RPG)</td> 
+- <td><a href="https://nauticcat.itch.io/catboard-catout">Catboard Catout(Puzzle Platformer)</td> 
 
 # Contacts
 You can reach me using: <br>
