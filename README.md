@@ -24,12 +24,30 @@ Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and T
     </tr>
     <tr>
     </tr>
+    <tr>
+      <th width="50%"><a>Dancefloor Duelist</a></th>
+      <th width="50%"><a>Pick Up</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td valign="text-top"">Dancefloor Duelists is a rhythm based bullet hell game where you need to dodge varying patterns of bullets while moving to the beat.<div></div></td>
+      <td valign="text-top">Lost Place is a Horror Top Down Shooter game that was made as part of BGDC Talent Group Program. The game is about a detective who wakes up in a dark room with no memories of how he got there.</td>
+    </tr>
+    <tr>
+      <td><a href="https://nauticcat.itch.io/dancefloor-duelists">Itch.io Page</td>
+      <td><a href="https://nauticcat.itch.io/pickup">Itch.io Page</td>
+    </tr>
+    <tr>
+    </tr>
   </tbody>
 </table>
 
 Other stuff I've Made:
-- <td><a href="https://nauticcat.itch.io/dancefloor-duelists">Dancefloor Duelist (Rhythm Based Bullet Hell Game)</td> 
-- <td><a href="https://nauticcat.itch.io/pickup">Pick Up (Click and Drag Puzzle Game)</td> 
 - <td><a href="https://nauticcat.itch.io/puck-off">Puck Off (Physics-Based Rogue-Like RPG)</td> 
 - <td><a href="https://nauticcat.itch.io/catboard-catout">Catboard Catout (Puzzle Platformer)</td> 
 
