@@ -36,7 +36,7 @@ Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and T
     </tr>
     <tr>
       <td valign="text-top"">Dancefloor Duelists is a rhythm based bullet hell game where you need to dodge varying patterns of bullets while moving to the beat.<div></div></td>
-      <td valign="text-top">Lost Place is a Horror Top Down Shooter game that was made as part of BGDC Talent Group Program. The game is about a detective who wakes up in a dark room with no memories of how he got there.</td>
+      <td valign="text-top">Pick Up is a relaxing puzzle game about designing the perfect factory floor. Draw conveyor belts to guide items through a series of transformation stations, turning a simple input into a complex final product. Solve puzzles by creating an efficient, beat-synchronized production lines.</td>
     </tr>
     <tr>
       <td><a href="https://nauticcat.itch.io/dancefloor-duelists">Itch.io Page</td>
