@@ -32,7 +32,7 @@ Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and T
   <tbody>
     <tr>
       <td></td>
-      <td><img src="https://github.com/VieroFamico/VieroFamico/blob/main/assets/PickUp.gif"/></td>
+      <td><img src="https://github.com/user-attachments/assets/15d5fb08-59e1-4329-a0b7-c345631c993d"/></td>
     </tr>
     <tr>
       <td valign="text-top"">Dancefloor Duelists is a rhythm based bullet hell game where you need to dodge varying patterns of bullets while moving to the beat.<div></div></td>
