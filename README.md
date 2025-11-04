@@ -19,8 +19,8 @@ Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and T
       <td valign="text-top"">Dancefloor Duelists is a rhythm based bullet hell game where you need to dodge varying patterns of bullets while moving to the beat.<div></div></td>
     </tr>
     <tr>
-      <td><a href="https://nauticcat.itch.io/project-impact">Itch.io Page</td>
-      <td><a href="https://nauticcat.itch.io/dancefloor-duelists">Itch.io Page</td>
+      <td align="center"><a href="https://nauticcat.itch.io/project-impact">Itch.io Page</td>
+      <td align="center"><a href="https://nauticcat.itch.io/dancefloor-duelists">Itch.io Page</td>
     </tr>
     <tr>
     </tr>
@@ -39,8 +39,9 @@ Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and T
       <td valign="text-top">Lost Place is a Horror Top Down Shooter game that was made as part of BGDC Talent Group Program. The game is about a detective who wakes up in a dark room with no memories of how he got there.</td>
     </tr>
     <tr>
-      <td><a href="https://nauticcat.itch.io/pickup">Itch.io Page</td>
-        <td><a href="https://bgdc.itch.io/lost-place">Itch.io Page</td>
+      <td align="center"><a href="https://nauticcat.itch.io/pickup">Itch.io Page</td>
+      <td align="center"><a href="https://bgdc.itch.io/lost-place">Itch.io Page </a>
+      </td>
     </tr>
     <tr>
     </tr>
