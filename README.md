@@ -15,8 +15,8 @@ Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and T
       <td><img src="https://github.com/VieroFamico/VieroFamico/blob/main/assets/DancefloorDuelists.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top"">Project Impact is an anime styled 3D Hack-and-Slash game, similar to Honkai Impact 3rd and Punishing Gray Raven. In the game there is 2 mode, Single Player and Coop PVP.<div></div></td>
-      <td valign="text-top"">Dancefloor Duelists is a rhythm based bullet hell game where you need to dodge varying patterns of bullets while moving to the beat.<div></div></td>
+      <td valign="text-top"">Project Impact is an anime styled 3D Hack-and-Slash game, similar to Honkai Impact 3rd and Punishing Gray Raven. In the game there is 2 mode, Single Player and Coop PVP. (Time Spent on the Project: 1+ Month)</td>
+      <td valign="text-top"">Dancefloor Duelists is a rhythm based bullet hell game where you need to dodge varying patterns of bullets while moving to the beat. (Time Spent on the Project: 4 Weeks)</td>
     </tr>
     <tr>
       <td align="center"><a href="https://nauticcat.itch.io/project-impact">Itch.io Page</td>
@@ -35,8 +35,8 @@ Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and T
       <td><img src="https://github.com/VieroFamico/VieroFamico/assets/145670324/219f11bc-9094-48b9-832a-bd15e5ee9e68"/></td>
     </tr>
     <tr>
-      <td valign="text-top">Pick Up is a relaxing puzzle game about designing the perfect factory floor. Draw conveyor belts to guide items through a series of transformation stations, turning a simple input into a complex final product. Solve puzzles by creating an efficient, beat-synchronized production lines.</td>
-      <td valign="text-top">Lost Place is a Horror Top Down Shooter game that was made as part of BGDC Talent Group Program. The game is about a detective who wakes up in a dark room with no memories of how he got there.</td>
+      <td valign="text-top">Pick Up is a relaxing puzzle game about designing the perfect factory floor. Draw conveyor belts to guide items through a series of transformation stations, turning a simple input into a complex final product. Solve puzzles by creating an efficient, beat-synchronized production lines. (Time Spent on the Project: 2 Weeks)</td>
+      <td valign="text-top">Lost Place is a Horror Top Down Shooter game that was made as part of BGDC Talent Group Program. The game is about a detective who wakes up in a dark room with no memories of how he got there. </td>
     </tr>
     <tr>
       <td align="center"><a href="https://nauticcat.itch.io/pickup">Itch.io Page</td>
@@ -49,9 +49,9 @@ Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and T
 </table>
 
 Other stuff I've Made:
-- <td><a href="https://nauticcat.itch.io/puck-off">Puck Off (Physics-Based Rogue-Like RPG)</td> 
-- <td><a href="https://nauticcat.itch.io/catboard-catout">Catboard Catout (Puzzle Platformer)</td> 
-- <td><a href="https://anthony-wijaya.itch.io/midnight-lilys-farm">Midnight Lily's Farm (Puzzle Horror)</td> 
+- <td><a href="https://nauticcat.itch.io/puck-off"> Puck Off (Physics-Based Rogue-Like RPG)</a><td>. Time Spent on the Project: 10 Days </td> 
+- <td><a href="https://nauticcat.itch.io/catboard-catout"> Catboard Catout (Puzzle Platformer)</a><td>. Time Spent on the Project: 3 Days </td> 
+- <td><a href="https://anthony-wijaya.itch.io/midnight-lilys-farm"> Midnight Lily's Farm (Puzzle Horror)</a><td>. Time Spent on the Project: 4 Weeks </td>
 
 https://anthony-wijaya.itch.io/midnight-lilys-farm
 # Contacts
