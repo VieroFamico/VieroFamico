@@ -6,7 +6,7 @@ Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and T
   <thead>
     <tr>
       <th width="50%"><a href="https://github.com/VieroFamico/Project-Impact-Portfolio/tree/main">Project Impact</a></th>
-      <th width="50%"><a>Dancefloor Duelist</a></th>
+      <th width="50%"><a href="https://github.com/VieroFamico/Dancefloor-Duelist-Portfolio">Dancefloor Duelist</a></th>
     </tr>
   </thead>
   <tbody>
