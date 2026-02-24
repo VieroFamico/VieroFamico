@@ -53,7 +53,6 @@ Other stuff I've Made:
 - <td><a href="https://nauticcat.itch.io/catboard-catout"> Catboard Catout (Puzzle Platformer)</a><td>. Time Spent on the Project: 3 Days </td> 
 - <td><a href="https://anthony-wijaya.itch.io/midnight-lilys-farm"> Midnight Lily's Farm (Puzzle Horror)</a><td>. Time Spent on the Project: 4 Weeks </td>
 
-https://anthony-wijaya.itch.io/midnight-lilys-farm
 # Contacts
 You can reach me using: <br>
 **Gmail**: viero.famico@gmail.com <br>
