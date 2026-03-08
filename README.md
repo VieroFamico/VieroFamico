@@ -1,5 +1,5 @@
 # About Me
-Hi, I'm Viero and I am a Programmer, I'm also currently a Game Application and Technology Student of Bina Nusantara University. I'm proficient in the use of Unity Game Engine and C# Programming Language.
+Hi, I'm Viero and I am a Programmer, I'm a Graduate Game Application and Technology Student of Bina Nusantara University. I'm proficient in the use of Unity Game Engine and C# Programming Language.
 
 # Things I've Made
 <table width="100%">
